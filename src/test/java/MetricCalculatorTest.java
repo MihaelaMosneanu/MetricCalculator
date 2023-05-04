@@ -1,4 +1,5 @@
 
+import org.example.MetricCalculator;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
